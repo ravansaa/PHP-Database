@@ -8,6 +8,8 @@ This project is an assignment from my class
 
 ### Latihan
 Ini adalah Latihan Web Database CRUD 
+### Database
+![Gambar](foto/db.png)
 Tampilan Awal yang menampilkan menu read Dan Button Tambah, Ubah, Dan Hapus
 ![Gambar](foto/ss1.png)
 Tamilah Tambah Data
